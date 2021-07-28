@@ -1,0 +1,24 @@
+
+.usersContainer {
+  display: flex;
+  flex-direction: row;
+  width: 750px;
+  justify-content: left;
+  box-sizing: border-box;
+}
+.usersList {
+  background: burlywood;
+  box-sizing: border-box;
+  padding: 10px;
+  margin-right: 10px;
+}
+
+.userDetails {
+  background: beige;
+  box-sizing: border-box;
+  padding: 10px;
+  height: 150px;
+  max-height: 100%;
+  width: 330px;
+  max-width: 100%;
+}
